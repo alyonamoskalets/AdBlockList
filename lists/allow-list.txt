@@ -1,8 +1,11 @@
 0.0.0.0 youtube.com
 0.0.0.0 m.youtube.com
 0.0.0.0 www.youtube.com
+0.0.0.0 googlevideo.com
+0.0.0.0 redirector.googlevideo.com
 0.0.0.0 googleapis.com
 0.0.0.0 www.googleapis.com
+0.0.0.0 youtubei.googleapis.com
 0.0.0.0 firebase.googleapis.com
 0.0.0.0 firebaseinstallations.googleapis.com
 0.0.0.0 firebasestorage.googleapis.com
