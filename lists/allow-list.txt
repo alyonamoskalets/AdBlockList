@@ -73,6 +73,7 @@
 0.0.0.0 office.com
 0.0.0.0 safelinks.protection.outlook.com
 0.0.0.0 chatgpt.com
+0.0.0.0 duck.ai
 0.0.0.0 openai.com
 0.0.0.0 claude.com
 0.0.0.0 perplexity.ai
@@ -197,6 +198,7 @@
 0.0.0.0 news.yandex.ru
 0.0.0.0 music.yandex.ru
 0.0.0.0 avito.ru
+0.0.0.0 rutube.ru
 0.0.0.0 ok.ru
 0.0.0.0 vk.com
 0.0.0.0 ms.vk.com
@@ -204,6 +206,7 @@
 0.0.0.0 ucoz.ru
 0.0.0.0 ucoz.com
 0.0.0.0 pravda.ru
+0.0.0.0 kp.ru
 0.0.0.0 vc.ru
 0.0.0.0 mos.ru
 0.0.0.0 samsung.com
@@ -211,3 +214,4 @@
 0.0.0.0 account.samsung.com
 0.0.0.0 api.account.samsung.com
 0.0.0.0 your-storagebox.de
+0.0.0.0 adguard.com

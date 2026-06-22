@@ -9,6 +9,8 @@
 0.0.0.0 subscriptionsfirstparty-pa.googleapis.com
 0.0.0.0 ogads-pa.googleapis.com
 0.0.0.0 footprints-pa.googleapis.com
+0.0.0.0 clienttracing-pa.googleapis.com
+0.0.0.0 crashlyticsreports-pa.googleapis.com
 0.0.0.0 www.gstatic.com
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 acdn.adnxs.com
